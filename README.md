@@ -2,10 +2,13 @@
 SQL Commands
 1.	Select
 a.	Used to pick which data the user wants to view. Ex: Select * from table.
+
 2.	Insert
 a.	Used to add data to a database. Ex: INSERT INTO table (‘First_name’) VALUES(‘Joe’)
+
 3.	Update
 a.	Used to change data in a database. Ex: UPDATE table SET first_name = “Joe” WHERE first_name = “joe”
+
 4.	Delete
 a.	Remove data from a database. Ex: DELETE * from table. 
 5.	Create
